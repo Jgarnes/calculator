@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './App.css';
 import Display from './components/displayComponent';
 import KeyPad from './components/keyPadComponent';
-                // "./components/KeyPadComponent"
 
 class App extends Component {
     constructor(){
